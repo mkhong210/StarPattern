@@ -1,6 +1,6 @@
 # raw data
-data/yelp_academic_dataset_business.json
-data/yelp_academic_dataset_review.json
+data/raw/yelp_academic_dataset_business.json
+data/raw/yelp_academic_dataset_review.json
 
 
 data/restaurant_business.csv
